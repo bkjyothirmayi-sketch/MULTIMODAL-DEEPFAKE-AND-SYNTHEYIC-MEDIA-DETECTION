@@ -1,0 +1,102 @@
+[
+    {
+        "modality": "IMAGE",
+        "split": "Test",
+        "samples": 14573,
+        "accuracy": 0.5908186372057915,
+        "precision": 0.5641411764705883,
+        "recall": 0.8181818181818182,
+        "f1_score": 0.6678179488607877,
+        "roc_auc": 0.5559974434336239,
+        "confusion_matrix": [
+            [
+                2616,
+                4631
+            ],
+            [
+                1332,
+                5994
+            ]
+        ]
+    },
+    {
+        "modality": "AUDIO",
+        "split": "Validation",
+        "samples": 2519,
+        "accuracy": 0.9515680825724494,
+        "precision": 0.9622458857696031,
+        "recall": 0.9229340761374187,
+        "f1_score": 0.9421800947867298,
+        "roc_auc": 0.9838274628887713,
+        "confusion_matrix": [
+            [
+                1403,
+                39
+            ],
+            [
+                83,
+                994
+            ]
+        ]
+    },
+    {
+        "modality": "AUDIO",
+        "split": "Test",
+        "samples": 2519,
+        "accuracy": 0.944819372766971,
+        "precision": 0.9625615763546798,
+        "recall": 0.9063079777365491,
+        "f1_score": 0.9335881509794554,
+        "roc_auc": 0.9863454182379532,
+        "confusion_matrix": [
+            [
+                1403,
+                38
+            ],
+            [
+                101,
+                977
+            ]
+        ]
+    },
+    {
+        "modality": "VIDEO",
+        "split": "Validation",
+        "samples": 7104,
+        "accuracy": 0.8638795045045045,
+        "precision": 0.753099730458221,
+        "recall": 0.9820738137082601,
+        "f1_score": 0.8524790236460718,
+        "roc_auc": 0.979415037978089,
+        "confusion_matrix": [
+            [
+                3343,
+                916
+            ],
+            [
+                51,
+                2794
+            ]
+        ]
+    },
+    {
+        "modality": "VIDEO",
+        "split": "Test",
+        "samples": 330,
+        "accuracy": 0.9424242424242424,
+        "precision": 0.9451219512195121,
+        "recall": 0.9393939393939394,
+        "f1_score": 0.9422492401215805,
+        "roc_auc": 0.983581267217631,
+        "confusion_matrix": [
+            [
+                156,
+                9
+            ],
+            [
+                10,
+                155
+            ]
+        ]
+    }
+]
