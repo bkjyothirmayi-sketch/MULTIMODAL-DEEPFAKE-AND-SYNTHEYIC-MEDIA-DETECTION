@@ -805,13 +805,11 @@ These are generated evaluation outputs, not files currently listed in the source
 
 ### 16.4 Evaluation Results
 
-Insert the actual measured test-set values from the generated evaluation outputs.
-
-| Model / Modality | Accuracy | Precision | Recall | F1-score | ROC-AUC |
-|---|---|---|---|---|---|
-| Image – MobileNetV2 | To be filled from test results | To be filled | To be filled | To be filled | To be filled |
-| Audio – MobileNetV2 | To be filled from test results | To be filled | To be filled | To be filled | To be filled |
-| Video – ShuffleNetV2 | To be filled from test results | To be filled | To be filled | To be filled | To be filled |
+ Accuracy 
+ Precision 
+ Recall 
+ F1-score 
+ ROC-AUC 
 
 The concatenation-based fusion architecture is a separate fusion component. Its evaluation results should be reported separately when measured on a defined multimodal test set.
 
